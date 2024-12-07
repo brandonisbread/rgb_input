@@ -1,0 +1,28 @@
+/* JavaScript input practice project */
+
+body {
+	background-image: linear-gradient(yellow, orange, red, blue);
+	text-align: center;
+	height: 1000px;
+}
+
+h1 {
+	font-size: 3.6em;
+	font-family: "Bradley Hand ITC", cursive;
+	text-shadow: antiquewhite 1px 1px 10px;
+	margin-bottom: 10px;
+}
+
+h2#today {
+	font-size: 2.5em;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+label {
+	font-size: 1.4em;
+}
+
+input#subName, input#color {
+	font-size: 1.5em;
+}
